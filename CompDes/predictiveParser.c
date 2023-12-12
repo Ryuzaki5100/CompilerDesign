@@ -4,7 +4,6 @@ char stack[1000], nonTerminals[100], startSymbol;
 int stackPos = -1, parsingSuccessfull = 0, numberOfNonTerminals = 0;
 int main()
 {
-    printf("\nName : ATHARVA GULKOTWAR, REGISTRATION NUMBER : 21BCI0367\n");
     int numberOfProductions;
     printf("Enter the number of productions : ");
     scanf("%d", &numberOfProductions);
