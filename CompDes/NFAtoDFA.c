@@ -17,7 +17,6 @@ int main()
     // Variable to store the number of states in NFA
     int numberOfStatesNFA;
 
-    printf("\nName : ATHARVA GULKOTWAR, REGISTRATION NUMBER : 21BCI0367\n");
     printf("Enter the number of states in NFA : ");
     scanf("%d", &numberOfStatesNFA);
 
