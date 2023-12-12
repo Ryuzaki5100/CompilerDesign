@@ -243,7 +243,6 @@ int main(void)
 {
     int states = 0;
     char symbol[26], inStr[50], *inStr2;
-    printf("\nName : ATHARVA GULKOTWAR, REGISTRATION NUMBER : 21BCI0367\n");
     printf("\nEnter symbol set:");
     scanf("%s", symbol);
     printf("Enter Regular Expression:");
