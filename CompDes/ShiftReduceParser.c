@@ -4,7 +4,6 @@ char charStack[1000];
 int numStack[1000], finalState, numStackPos = -1, charStackPos = -1;
 int main()
 {
-    printf("\nName : ATHARVA GULKOTWAR, REGISTRATION NUMBER : 21BCI0367\n");
     int numberOfProductions, flag = 0;
     printf("Enter the total number of productions : ");
     scanf("%d", &numberOfProductions);
