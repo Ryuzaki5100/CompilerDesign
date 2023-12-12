@@ -70,7 +70,6 @@ void X()
 }
 int main()
 {
-    printf("\nName : ATHARVA GULKOTWAR, REGISTRATION NUMBER : 21BCI0367\n");
     printf("Enter the string to be parsed : ");
     scanf("%s", parseString);
     S();
